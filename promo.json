@@ -2,11 +2,19 @@
   "apps": [
  
     {
-      "name": "Fluffy Slide",
-      "packageName": "com.fluffy.slide.match.puzzle.game",
-      "targetAsin": "B0H59DZT7Z",
-      "storeUrl": "https://www.amazon.com/Aliyan-Amjad-Fluffy-Slide/dp/B0H59DZT7Z",
-      "rewardedVideoURL": "https://files.catbox.moe/x6mgat.mp4"
+          "name": "Puppy Sort",
+      "packageName": "com.aqmamz.puppy.sort.match.puzzle",
+      "targetAsin": "B0HPFF8K4J",
+      "storeUrl": "https://www.amazon.com/Puppy-Sort-Match-3-Puzzle/dp/B0HPFF8K4J",
+      "rewardedVideoURL": "https://files.catbox.moe/5wx3kp.mp4"
+    }, 
+    {
+      "name": "Puppy Sort",
+      "packageName": "com.aqmamz.puppy.sort.match.puzzle",
+      "targetAsin": "B0HPFF8K4J",
+      "storeUrl": "https://www.amazon.com/Puppy-Sort-Match-3-Puzzle/dp/B0HPFF8K4J",
+      "rewardedVideoURL": "https://files.catbox.moe/vsjaek.mp4"
     }
+    
   ]
 }
